@@ -5,4 +5,3 @@
 -Genaues balancing (Infos in Issue dazu)  
 -Entwickeln von Pokemon möglich machen  
 -Speichern und laden(Spielername, Pokemon, Altarwerte, ...) in json  
--Effektivitäten (Funktion die zwei Typen nimmt und die Effektivität ausspukt
